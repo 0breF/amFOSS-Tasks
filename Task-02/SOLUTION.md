@@ -22,5 +22,7 @@ TERMINAL COMMANDS
 7) rm -rf = Removes an entire directory
 8) rm = Removes a file
 9) ls = Lists the files in a directory
+10) cat = To make changes in text files without opening them
+11) mkdir = To create a new directory 
 
  
