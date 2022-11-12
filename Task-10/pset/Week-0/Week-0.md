@@ -15,7 +15,7 @@ How to Play :-
 4) If the Cat finishes the maze, a meow sound would be played and the Cat would be set to the default position
 5) Press X to reset
 
-The SCRATCH file for my project has been uploaded in this directory, all the conditions which were written in the Problem-Set 0 for making the SCRATCH project have been satisfied.
+The SCRATCH file for my project and the final screenshot of the game have been uploaded in this directory, all the conditions which were written in the Problem-Set 0 for making the SCRATCH project have been satisfied.
 
 
 
