@@ -1,0 +1,84 @@
+body {
+  text-align: center;
+  background-color: #283149;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  text-shadow: 3px 0 #DA0463;
+  font-family: 'Kalam', cursive;
+
+}
+
+.w.drum {
+  color: white;
+  background-color: #D7A1F9;
+}
+
+.a.drum {
+  color: white;
+  background-color: #C576F6;
+}
+
+.s.drum {
+  color: white;
+  background-color: #B24BF3;
+}
+
+.d.drum {
+  color: white;
+  background-color: #9417E2;
+}
+
+.j.drum {
+  color: white;
+  background-color: #7921B1;
+}
+
+.k.drum {
+  color: white;
+  background-color: #613385;
+}
+
+.l.drum {
+  color: white;
+  background-color: purple;
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 5px solid black;
+  font-size: 5rem;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+  box-shadow: 8px 5px 5px black;
+  font-family: 'Indie Flower', cursive;
+}
