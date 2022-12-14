@@ -29,3 +29,7 @@ I would contribute to the club back by working on open source projects, particip
 4. Do you have any feedback on the selection process?
 
 The selection process was very clear, it was beginner friendly and the tasks were very transperent as well. I could see what I had to do most of the times and at times I had no clue, my best friend (google) was of great help. Overall the selection process (except flutter and GoWasm) were really nice and not overwhelming in any sense, they just took a bit of time to complete. I personally enjoyed and had a mix of emotions at a certain point but that was completely on me and not on the tasks which were provided, and I believe there is a Stage 1 and Stage 2 for seniors who are interested in joining which looks promising as well considering (if i clear this stage) I would be able to work on the domains I'm exactly interested in and start working on projects.
+
+
+EDIT:-
+Forgot to delete the python additional files, so 99.7% of the entire repo is python (task-04) XD
